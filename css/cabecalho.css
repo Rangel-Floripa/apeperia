@@ -39,7 +39,7 @@
     .cabecalho {
         flex-direction: row;
         justify-content: space-between;
+
         border: none;
     }
 }
-

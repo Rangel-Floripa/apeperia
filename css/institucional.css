@@ -69,13 +69,13 @@
 
         display: flex;
         justify-content: space-between;
-
+        
         text-align: left;
     }
 
     .institucional__video {
         align-self: flex-end;
-
+        
         width: 375px;
     }
 
